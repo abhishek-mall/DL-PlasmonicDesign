@@ -7,17 +7,17 @@ Metasurfaces is an emerging field that enables the manipulation of light by an u
 This repository contains the template code used in the research article. The code includes : create_dataset.py, models.py and train.py. It is written for one of the metasurface dataset and can be extended to other datasets. The code demonstrates the implementation of autoencoder for the design of plasmonic metasurfaces. The dataset was generated using simulation software, COMSOL.
 
 ## Article
-[Link to Research Article](https://iopscience.iop.org/article/10.1088/1361-6463/abb33c/meta?casa_token=k-IKQCH2uVwAAAAA:EkxEYh0JemFOo218FVkzKru3KJpz4dZLyoP2OczqMxjkU6f_LQBaXYGtxBWHC6rLuGLmu_0vMKnh9YoNjyie1AaoDe9D)
 
-```plaintext
-Authors : Abhishek Mall, Abhijeet Patil, Dipesh Tamboli, Amit Sethi, Anshuman Kumar
-Publication date : 2020/10/1
-Journal : Journal of Physics D: Applied Physics
-Volume 53, Issue 49, Pages 49LT01
-Publisher : IOP Publishing Ltd
+[Link to Research Article](https://iopscience.iop.org/article/10.1088/1361-6463/abb33c/meta?casa_token=k-IKQCH2uVwAAAAA:EkxEYh0JemFOo218FVkzKru3KJpz4dZLyoP2OczqMxjkU6f_LQBaXYGtxBWHC6rLuGLmu_0vMKnh9YoNjyie1AaoDe9Zxw)
 
+Authors: Abhishek Mall, Abhijeet Patil, Dipesh Tamboli, Amit Sethi, Anshuman Kumar
+Publication date: 2020/10/1
+Journal: Journal of Physics D: Applied Physics
+Volume: 53, Issue: 49, Pages: 49LT01
+Publisher: IOP Publishing Ltd
 
 ## Citation
+
 If you use this code or the research in your work, please cite the following:
 
 ```plaintext
@@ -31,4 +31,5 @@ If you use this code or the research in your work, please cite the following:
   year={2020},
   publisher={IOP Publishing}
 }
+
 
