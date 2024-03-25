@@ -8,8 +8,9 @@ This repository contains the template code used in the research article. The cod
 
 The program is pure-Python and runs on GPU. Additionally, the following libraries are used
 
-numpy
-pytorch
+- numpy
+- pandas
+- pytorch
 
 ## Article Information
 
