@@ -7,7 +7,8 @@ Metasurfaces is an emerging field that enables the manipulation of light by an u
 This repository contains the template of the code used for the research article titled "Fast Design of Plasmonic Metasurfaces Enabled by Deep Learning." The code demonstrates the implementation of deep learning techniques for the design of plasmonic metasurfaces.
 
 ## Article
-https://iopscience.iop.org/article/10.1088/1361-6463/abb33c/meta?casa_token=k-IKQCH2uVwAAAAA:EkxEYh0JemFOo218FVkzKru3KJpz4dZLyoP2OczqMxjkU6f_LQBaXYGtxBWHC6rLuGLmu_0vMKnh9YoNjyie1AaoDe9D
+[Fast Design of Plasmonic Metasurfaces Enabled by Deep Learning](https://iopscience.iop.org/article/10.1088/1361-6463/abb33c/meta?casa_token=k-IKQCH2uVwAAAAA:EkxEYh0JemFOo218FVkzKru3KJpz4dZLyoP2OczqMxjkU6f_LQBaXYGtxBWHC6rLuGLmu_0vMKnh9YoNjyie1AaoDe9D)
+
 
 ## Citation
 If you use this code or the research in your work, please cite the following:
