@@ -6,7 +6,7 @@ Metasurfaces is an emerging field that enables the manipulation of light by an u
 ## Code
 This repository contains the template code used in the research article. The code includes : create_dataset.py, models.py and train.py. It is written for one of the metasurface dataset and can be extended to other datasets. The code demonstrates the implementation of autoencoder for the design of plasmonic metasurfaces. The dataset was generated using simulation software, COMSOL.
 
-The program is pure-Python and runs on GPU. Additionally, the following libraries are used
+The program is pure-Python and runs on GPU. Additionally, the following libraries are used:
 
 - numpy
 - pandas
