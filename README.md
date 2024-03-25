@@ -19,6 +19,7 @@ Publisher : IOP Publishing Ltd
 ## Citation
 If you use this code or the research in your work, please cite the following:
 
+```plaintext
 @article{mall2020fast,
   title={Fast design of plasmonic metasurfaces enabled by deep learning},
   author={Mall, Abhishek and Patil, Abhijeet and Tamboli, Dipesh and Sethi, Amit and Kumar, Anshuman},
