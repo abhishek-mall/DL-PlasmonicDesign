@@ -42,13 +42,13 @@ weight_decay=0.1
 
 
 print('------------------------Data Pre-processing------------------------------')
-test_data = (pd.read_csv("/home/dipesh/Desktop/gan_in_physics/csv_square/squareTest_concated.csv", header=None))
+test_data = (pd.read_csv("/home/Desktop/gan_in_physics/csv_square/squareTest_concated.csv", header=None))
 test_df = pd.DataFrame(data=test_data)
 test_tensor = torch.tensor(test_df.values)
-train_data = (pd.read_csv("/home/dipesh/Desktop/gan_in_physics/csv_square/squareTrain_concated.csv", header=None))
+train_data = (pd.read_csv("/home/Desktop/gan_in_physics/csv_square/squareTrain_concated.csv", header=None))
 train_df = pd.DataFrame(data=train_data)
 train_tensor = torch.tensor(train_df.values)
-val_data = (pd.read_csv("/home/dipesh/Desktop/gan_in_physics/csv_square/squareVal_concated.csv", header=None))
+val_data = (pd.read_csv("/home/Desktop/gan_in_physics/csv_square/squareVal_concated.csv", header=None))
 val_df = pd.DataFrame(data=val_data)
 val_tensor = torch.tensor(val_df.values)
 
