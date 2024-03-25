@@ -10,15 +10,13 @@ This repository contains the template code used in the research article. The cod
 
 [Link to Research Article](https://iopscience.iop.org/article/10.1088/1361-6463/abb33c/meta?casa_token=k-IKQCH2uVwAAAAA:EkxEYh0JemFOo218FVkzKru3KJpz4dZLyoP2OczqMxjkU6f_LQBaXYGtxBWHC6rLuGLmu_0vMKnh9YoNjyie1AaoDe9Zxw)
 
-| **Information**        | **Details**                                    |
-|------------------------|-----------------------------------------------|
-| Authors                | Abhishek Mall, Abhijeet Patil, Dipesh Tamboli, Amit Sethi, Anshuman Kumar |
-| Publication Date       | 2020/10/1                                     |
-| Journal                | Journal of Physics D: Applied Physics         |
-| Volume                 | 53                                            |
-| Issue                  | 49                                            |
-| Pages                  | 49LT01                                        |
-| Publisher              | IOP Publishing Ltd                            |
+- **Authors:** Abhishek Mall, Abhijeet Patil, Dipesh Tamboli, Amit Sethi, Anshuman Kumar
+- **Publication Date:** 2020/10/1
+- **Journal:** Journal of Physics D: Applied Physics
+- **Volume:** 53
+- **Issue:** 49
+- **Pages:** 49LT01
+- **Publisher:** IOP Publishing Ltd
 
 
 ## Citation
